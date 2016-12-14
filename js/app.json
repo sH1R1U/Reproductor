@@ -1,0 +1,46 @@
+{
+	"songs":[
+		{
+			"id":0,
+			"nombre":"02-Las Ganas de Decir que No (Con CE)",
+			"artist":"Omega",
+			"song":"musica/02-Las Ganas de Decir que No (Con CE).mp3",
+			"image":"musica/00 El Exilio-1.jpg"
+		},
+		{
+			"id":1,
+			"nombre":"04-Evolucion del Arte (Con Akapellah)",
+			"artist":"asda",
+			"song":"musica/04-Evolucion del Arte (Con Akapellah).mp3",
+			"image":"musica/00 El Exilio-1.jpg"
+		},
+		{
+			"id":2,
+			"nombre":"05-La cancion mas triste de mi Vida",
+			"artist":"Omega",
+			"song":"musica/05-La cancion mas triste de mi Vida.mp3",
+			"image":"musica/00 El Exilio-1.jpg"
+		},
+		{
+			"id":3,
+			"nombre":"08-Sabes de lo que Hablo (Con Chyste Mc)",
+			"artist":"Omega",
+			"song":"musica/08-Sabes de lo que Hablo (Con Chyste Mc).mp3",
+			"image":"musica/00 El Exilio-1.jpg"
+		},
+		{
+			"id":4,
+			"nombre":"09-Libertad de Expresion (Con Rapper School)",
+			"artist":"Omega",
+			"song":"musica/09-Libertad de Expresion (Con Rapper School).mp3",
+			"image":"musica/00 El Exilio-1.jpg"
+		},
+		{
+			"id":5,
+			"nombre":"16-Comenzar de Cero (Con CE)",
+			"artist":"Omega",
+			"song":"musica/16-Comenzar de Cero (Con CE).mp3",
+			"image":"musica/00 El Exilio-1.jpg"
+		}
+	]
+}
